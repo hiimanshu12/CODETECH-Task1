@@ -38,7 +38,7 @@ Efficient Processing: Implements basic mathematical functions efficiently, allow
 
 Conclusion : <br>
 
-The calculator project successfully demonstrates Java's object-oriented design principles and handling of user inputs. It offers essential arithmetic operations and error management, laying the groundwork for expanding to more complex mathematical functionalities in the future..
+The calculator project successfully demonstrates Java's object-oriented design principles and handling of user inputs. It offers essential arithmetic operations and error management, laying the groundwork for expanding to more complex mathematical functionalities in the future.....
 
 
 
