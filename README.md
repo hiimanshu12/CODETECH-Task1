@@ -1,5 +1,5 @@
 Name: HIMANSHU SHEKHAR <br>
-Company: CODETECH IT SOLUTIONS <br>
+Company: CODETECH IT SOLUTIONS. <br>
 ID: CT04DS7809 <br>
 Domain: Java Programming <br>
 Duration: September to October 2024 <br>
